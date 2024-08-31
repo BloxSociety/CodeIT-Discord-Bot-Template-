@@ -21,9 +21,7 @@ To Join the support server, click [here](https://discord.com/invite/Q28SVvA6).
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/your-repo.git
-
- 
-
+   
    2: Install the Npms and bash you need
 
    3: Set it up on your Discord server and there you go!
